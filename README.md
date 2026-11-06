@@ -14,6 +14,8 @@ model that does the job, not the biggest one that fits.
 - [COMMANDS.md](COMMANDS.md) — copy-paste commands for Ollama, LM Studio,
   llama.cpp, OpenAI-compatible APIs, and GPU checks.
 
+![Running Models 101 cheatsheet](assets/cheatsheet.png)
+
 ## First run
 
 macOS or Linux:
@@ -74,6 +76,7 @@ Add 1-4 GB for context and runtime overhead. A 1.7B at Q4 is about 1.1 GB. A
 README.md       this file
 CHEATSHEET.md   concepts, model decoder, tiers, failures
 COMMANDS.md     copy-paste commands
+assets/         cheatsheet image
 LICENSE         MIT
 ```
 

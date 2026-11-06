@@ -1,8 +1,9 @@
 # Commands
 
 Copy-paste starting points for Local AI Sessions Ep. 01. Commands target
-Ollama 0.30.x and current llama.cpp builds. Model tags change; verify with
-`ollama list` and the model card before relying on a name.
+current Ollama and llama.cpp builds. Model tags may require a recent Ollama;
+update if a pull asks for a newer version. Verify tags with `ollama list` and
+the model card before relying on a name.
 
 ## Ollama
 
